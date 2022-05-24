@@ -12,6 +12,7 @@
     "version": "6.2.0"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
     "hexo": "^6.2.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
@@ -22,6 +23,7 @@
     "hexo-renderer-marked": "^5.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
+    "hexo-theme-ayer": "^1.9.7-0",
     "hexo-theme-landscape": "^0.0.3"
   }
 }
