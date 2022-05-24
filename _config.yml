@@ -97,12 +97,12 @@ deploy:
   # repository: https://github.com/lingxd/lingxd.github.io.git
   repo: 
     github: git@github.com:lingxd/lingxd.github.io.git
-    coding: git@git.coding.net:lingxd97outlook/lingxd97outlook.git
+    # coding: git@git.coding.net:lingxd97outlook/lingxd97outlook.git
   branch: master
 
 search:                     # 实现搜索文章的功能
   path: search.xml
-  field: post
+  field: postl
   format: html
   limit: 100
 

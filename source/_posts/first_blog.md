@@ -10,6 +10,6 @@ tags:
 
 ### Hello World!
 
-### 物语
+### 物语系列
 
 ![](/images/blog/first/物语系列.jpg)
